@@ -1,0 +1,57 @@
+html {
+  background: url(img/stars-background.jpg);
+  background-size: cover;
+}
+
+body {
+  background-color: rgb(199, 223, 226);
+  border-radius: 20px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 75px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(25, 70, 70);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(35, 148, 142);
+}
+
+.sharkpic {
+  border-radius: 15px;
+  border: rgb(49, 82, 105) solid 2px;
+}
+
+.botw {
+  border-radius: 15px;
+  border: rgb(49, 82, 105) solid 2px;
+}
+
+.greek {
+  border-radius: 15px;
+  border: rgb(49, 82, 105) solid 2px;
+}
+
+.vinyl {
+  border-radius: 15px;
+  border: rgb(49, 82, 105) solid 2px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(25, 146, 140);
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(27, 58, 58);
+  font-weight: bold;
+}
